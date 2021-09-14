@@ -7,7 +7,7 @@ This repository is having all the codes regarding the AI/ML Skill India Scholars
 
 It's contains Python, Data analysis, CSV file to Analysis Summer Olympics.
 1. summer.csv
-2. olympics analysis(1).ipynb
+2. summer olympics analysis(1).ipynb
 
 -----
 ## It consists of answers to the following questions
